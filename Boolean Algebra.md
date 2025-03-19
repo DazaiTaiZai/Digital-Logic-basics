@@ -5,4 +5,6 @@
 ### The miniterm form is addition of intersections , additive symbol or "+" is used for OR significance and a dot or "." is used for AND. It's easy once you go through some basic examples.
 ### While on a smaller scale it seems easy to sort and simplify boolean algebra , we have to consider that on a large scale for digital operations , simplifications might not be that easy with the help of distributive or additive laws... Hence there are various mappings we use.
 
-
+## K mapping
+### K mapping is a way to simplify a combination of digital gates into much smaller ones. Learn about K mapping more here - https://youtu.be/FPrcIhqNPVo?si=BwE81pMhK8wbRn76 .
+## DeMorgan's theorem - https://youtu.be/W7YTfLaPWRY?si=-tOT_fnMaoCPBzk-
