@@ -15,3 +15,11 @@ The 74HC00 series , also known as the low level cmos logic is mostly used these 
 ### However , since we cant overlap TTL and CMOS logic there is a way to replace most of the TTL with CMOS logic , by setting up a "T" in CMOS , making a new branch of ICS the T operated CMOS logic ICs , these ICs are used as the replacement of TTL logic family. A voltage profile diagram for the 74HCTOO,74ACTOO, 74ACTQOO, 74FCTOO, and 74FCTAOO series CMOS ICs is attached below , you can see even if they share the cmos logic they are actually representing the high ;ow defination of that as a TTL logic family.
 ![image](https://github.com/user-attachments/assets/0c6e1e56-f752-450a-9065-1e9fab053729)
 ### In summary , the T cmos family has input logic as a TTL family and output one as a CMOS group.
+
+
+## Low level CMOS (advanced families used in mordern times)
+### As we are progressing in the field of DE , the digital circuits are getting smaller day by day , hence the logical interface performed requires a low voltage tolerance. 
+
+### Some of the advanced IC CMOS logic families are - 74ALVC00 , 74ALVX00 . These are used as advanced CMOS ICs , their voltage tolerance is much less than the first CMOS IC we studied i.e 4000. Approx , +5V is the most Maxm they will thrive on. The input - output charcateristic for these family is attached below , you may observe the low voltage and high impedence value , the at most value for this IC is +3v:-
+![image](https://github.com/user-attachments/assets/e5f998ff-90af-44d1-81e2-1fac457b1f75)
+
